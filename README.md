@@ -1,16 +1,19 @@
-### Hi there 👋
+## Xiomara Canizales 
+Web Developer 👩‍💻
 
-<!--
-**XiomaraCanizales/XiomaraCanizales** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Currently
+- Learning Python
+- Taking CS50x [info](https://cs50.harvard.edu/x/2021/)
+- Web Developer Bootcamp [info](https://www.udemy.com/course/the-complete-web-development-bootcamp/)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Interest
+- Web Design 🎨
+- Computer Science 💻
+- Video Games 🎮
+- Books 📚
+- Cats :octocat:
+- Superheroes 🦸‍♀️
+ 
+### How to reach me:
+Portfolio |
+Dribbble
