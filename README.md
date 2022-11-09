@@ -1,5 +1,6 @@
-# Hi there! 
-I'm Xiomara Canizales,<br>I'm a self-taught Web Developer
+![Xiomara Canizales-2](https://user-images.githubusercontent.com/53951477/200748965-978b747a-9107-458e-adae-302fdd33daa0.png)
+
+<h4 align='center'>I'm Xiomara, <br>I'm a self-taught Web Developer</h4>
 
 ## Currently Taking
 - CS50's Web Programming With Python and JavaScript
@@ -28,12 +29,4 @@ I'm Xiomara Canizales,<br>I'm a self-taught Web Developer
 ### Get in Touch
 - [Dribbble](https://dribbble.com/XiomaraCanizales)
 - [LinkedIn](https://linkedin.com/in/https://www.linkedin.com/in/xiomara-canizales/) 
-- Portfolio
-
-
-### GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=XiomaraCanizales&theme=dracula&hide_border=false&include_all_commits=false&count_private=false)
-![](https://github-readme-streak-stats.herokuapp.com/?user=XiomaraCanizales&theme=dracula&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=XiomaraCanizales&theme=dracula&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-![image2](img/2)
+- [Portfolio](https://xiomaracanizales.github.io/portfolio/)
