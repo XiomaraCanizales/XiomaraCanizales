@@ -17,16 +17,8 @@
 - Python 
 - HTML5 
 - Django
-
-### Interest
-- Web Design 🎨
-- Computer Science 💻
-- Video Games 🎮
-- Books 📚
-- Cats :octocat:
-- Superheroes 🦸‍♀️
  
 ### Get in Touch
-- [Dribbble](https://dribbble.com/XiomaraCanizales)
 - [LinkedIn](https://linkedin.com/in/https://www.linkedin.com/in/xiomara-canizales/) 
 - [Portfolio](https://xiomaracanizales.github.io/portfolio/)
+- [Dribbble](https://dribbble.com/XiomaraCanizales)
