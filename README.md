@@ -3,11 +3,11 @@
 <h4 align='center'>I'm Xiomara, <br>I'm a self-taught Web Developer</h4>
 
 ## Currently Taking
-- CS50's Web Programming With Python and JavaScript
+- CS50's Web Programming With Python and JavaScript [HardvardX](https://cs50.harvard.edu/web/2020/)
 - Web Developer Bootcamp by [London App Brewery](https://www.udemy.com/course/the-complete-web-development-bootcamp/)
 
 ## Studies
-- CS50's Introduction to CS by [Hardvard University](https://cs50.harvard.edu/x/2022/)
+- CS50's Introduction to CS by [HardvardX](https://cs50.harvard.edu/x/2022/)
 - Graphic Design Specialization
 - Basic of Web Development Coding Specialization
 
