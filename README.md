@@ -5,7 +5,7 @@ I'm Xiomara Canizales,<br>I'm a self-taught Web Developer
 - CS50's Web Programming With Python and JavaScript
 - Web Developer Bootcamp by [London App Brewery](https://www.udemy.com/course/the-complete-web-development-bootcamp/)
 
-## Alredy Took
+## Studies
 - CS50's Introduction to CS by [Hardvard University](https://cs50.harvard.edu/x/2022/)
 - Graphic Design Specialization
 - Basic of Web Development Coding Specialization
