@@ -7,6 +7,7 @@
 - Web Developer Bootcamp by [London App Brewery](https://www.udemy.com/course/the-complete-web-development-bootcamp/)
 
 ## Studies
+- Responsive Web Design [freeCodeCamp](https://freecodecamp.org/certification/xiomara/responsive-web-design)
 - CS50's Introduction to CS by [HardvardX](https://cs50.harvard.edu/x/2022/)
 - Graphic Design Specialization
 - Basic of Web Development Coding Specialization
