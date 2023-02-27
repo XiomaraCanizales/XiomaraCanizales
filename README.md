@@ -20,6 +20,6 @@
 - Django
  
 ### Get in Touch
-- [LinkedIn](https://linkedin.com/in/https://www.linkedin.com/in/xiomara-canizales/) 
+- [LinkedIn](https://www.linkedin.com/in/xiomara-canizales/?locale=en_US) 
 - [Portfolio](https://xiomaracanizales.github.io/portfolio/)
 - [Dribbble](https://dribbble.com/XiomaraCanizales)
