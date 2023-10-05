@@ -3,20 +3,22 @@
 <h4 align='center'>I'm Xiomara, <br>I'm a self-taught Web Developer</h4>
 
 ## Currently Taking
-- CS50's Web Programming With Python and JavaScript [HardvardX](https://cs50.harvard.edu/web/2020/)
-- Web Developer Bootcamp by [London App Brewery](https://www.udemy.com/course/the-complete-web-development-bootcamp/)
+- Full Stack Web Developer Bootcamp by [London App Brewery](https://www.udemy.com/course/the-complete-web-development-bootcamp/)
+- Full Stack Web Development with MERN by [Oak Academy](https://www.udemy.com/course/full-stack-web-development-bootcamp-with-mern-stack-projects/)
 
 ## Studies
 - Responsive Web Design [freeCodeCamp](https://freecodecamp.org/certification/xiomara/responsive-web-design)
 - CS50's Introduction to CS by [HardvardX](https://cs50.harvard.edu/x/2022/)
-- Graphic Design Specialization
-- Basic of Web Development Coding Specialization
+- Basics of Web Development & Coding Specialization [University of Michigan](https://www.coursera.org/specializations/web-design)
+- Graphic Design Specialization [California Institute of the Arts](https://www.coursera.org/specializations/graphic-design)
 
 ## Tech Stack
+- HTML5 
 - CSS3
 - JavaScript
+- NodeJS
+- Express
 - Python 
-- HTML5 
 - Django
  
 ### Get in Touch
