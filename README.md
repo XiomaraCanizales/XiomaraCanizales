@@ -5,7 +5,8 @@
 
 ## 📝 Currently Taking
 - Full Stack Web Developer Bootcamp by [London App Brewery](https://www.udemy.com/course/the-complete-web-development-bootcamp/)
-- Full Stack Web Development with MERN by [Oak Academy](https://www.udemy.com/course/full-stack-web-development-bootcamp-with-mern-stack-projects/)
+- JavaScript Algorithms and Data Structures [freeCodeCamp](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures-v8/)
+- Foundational C# with Microsoft [freeCodeCamp & Microsoft](https://www.freecodecamp.org/learn/foundational-c-sharp-with-microsoft/#debug-c-sharp-console-applications)
 
 ## 👩🏻‍🎓 Studies 
 - Responsive Web Design [freeCodeCamp](https://freecodecamp.org/certification/xiomara/responsive-web-design)
